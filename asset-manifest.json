@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.0d0d2244.chunk.css",
-    "main.js": "/static/js/main.23743e7d.chunk.js",
-    "main.js.map": "/static/js/main.23743e7d.chunk.js.map",
-    "runtime~main.js": "/static/js/runtime~main.cd9a5c0a.js",
-    "runtime~main.js.map": "/static/js/runtime~main.cd9a5c0a.js.map",
-    "static/js/2.262bfd11.chunk.js": "/static/js/2.262bfd11.chunk.js",
-    "static/js/2.262bfd11.chunk.js.map": "/static/js/2.262bfd11.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0b2c3f6fbeaf592ca918ea60b218bdfd.js": "/precache-manifest.0b2c3f6fbeaf592ca918ea60b218bdfd.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.0d0d2244.chunk.css.map": "/static/css/main.0d0d2244.chunk.css.map"
+    "main.css": "/navbar-proto/static/css/main.0d0d2244.chunk.css",
+    "main.js": "/navbar-proto/static/js/main.04bdfd46.chunk.js",
+    "main.js.map": "/navbar-proto/static/js/main.04bdfd46.chunk.js.map",
+    "runtime~main.js": "/navbar-proto/static/js/runtime~main.fc9f584a.js",
+    "runtime~main.js.map": "/navbar-proto/static/js/runtime~main.fc9f584a.js.map",
+    "static/js/2.262bfd11.chunk.js": "/navbar-proto/static/js/2.262bfd11.chunk.js",
+    "static/js/2.262bfd11.chunk.js.map": "/navbar-proto/static/js/2.262bfd11.chunk.js.map",
+    "index.html": "/navbar-proto/index.html",
+    "precache-manifest.cb70563d32d9c1cfe0548e4369f2a20d.js": "/navbar-proto/precache-manifest.cb70563d32d9c1cfe0548e4369f2a20d.js",
+    "service-worker.js": "/navbar-proto/service-worker.js",
+    "static/css/main.0d0d2244.chunk.css.map": "/navbar-proto/static/css/main.0d0d2244.chunk.css.map"
   }
 }
